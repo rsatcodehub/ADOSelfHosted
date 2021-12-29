@@ -1,0 +1,10 @@
+script.sh
+
+*.terraform
+
+*.tfstate
+
+*.tfvars
+
+*.tfstate.*
+
